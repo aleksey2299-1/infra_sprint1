@@ -1,0 +1,5 @@
+IP: 158.160.83.122;
+name_taski: https://taski.servehalflife.com;
+name_kittygram: https://kittygram.servehalflife.com;
+login: admin;
+password: admin;
